@@ -1,0 +1,3 @@
+FROM scrapy
+
+WORKDIR /src
